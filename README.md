@@ -1,6 +1,6 @@
-# calculator_tip
+# TIP CALCULATOR
 
-A new Flutter project.
+This app can be used to calculate the tip and split the bill at the same time .  
 
 ## Getting Started
 
